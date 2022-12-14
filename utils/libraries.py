@@ -16,3 +16,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
 
 import pickle
+
+from spacy.cli import download
+
+download("en_core_web_sm")
