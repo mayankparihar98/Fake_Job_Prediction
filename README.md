@@ -1,8 +1,8 @@
 #### **Real Job or Fake Job Prediction**
 
-    A simple Streamlit WebApp, which can predict if a Job Description is Real or Fake. 
+A simple Streamlit WebApp, which can predict if a Job Description is Real or Fake. 
     
-    Experimented with Machine Learning Classification Models such as Logistic Regression, Random Forest and Support Vector Machines.
+Experimented with Machine Learning Classification Models such as Logistic Regression, Random Forest and Support Vector Machines.
 
 
 #### **About Dataset**
