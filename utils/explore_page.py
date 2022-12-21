@@ -5,7 +5,7 @@ def show_explore_page():
     
     # Loading Dataset into DataFrame
     st.write("#### 1. About Dataset")
-    df = pd.read_csv("../datasets/fake_job_postings.csv")
+    df = pd.read_csv("./datasets/fake_job_postings.csv")
     st.dataframe(df.head())
 
     rows = df.shape[0]
